@@ -6,9 +6,8 @@
 <p>
   Developed using:
   <ul>
-    <li>Html & Css</li>
-    <li>JavaScript</li>
-    <li>Bootstrap4</li>
-    <li>Node.js</li>
+    <li> XCode </li>
+    <li> SwiftUI </li>
+    <li> Swift </li>
   </ul>
 </p>
